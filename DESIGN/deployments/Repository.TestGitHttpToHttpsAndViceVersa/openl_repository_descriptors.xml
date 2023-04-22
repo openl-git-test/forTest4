@@ -1,0 +1,10 @@
+
+<descriptors>
+    <descriptor>
+        <repositoryId>design</repositoryId>
+        <path>DESIGN/rules/Repository.TestGitHttpToHttpsAndViceVersa</path>
+        <projectName>Repository.TestGitHttpToHttpsAndViceVersa</projectName>
+        <branch>master</branch>
+        <projectVersion>1dfbdea3d719fc992f738e025f8cdeec94cf154c</projectVersion>
+    </descriptor>
+</descriptors>
