@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Build-Date: 2024-03-27T00:56:51.589075Z
+Build-Date: 2024-04-03T16:22:32.064519Z
 Created-By: OpenL WebStudio v.5.27.6-SNAPSHOT
 Implementation-Title: Repository.TestGitHttpToHttpsAndViceVersa
 Build-Branch: master
-Build-Number: 0d3e0138d673e229eb4bef5838a86b4a31736416
-Implementation-Version: first last-2024-03-27_00-56-41
+Build-Number: 1e33e5d6ab34ce1a9fc9f6f8c3a19d8b824fc3dc
+Implementation-Version: first last-2024-04-03_16-22-22
 Built-By: admin
 
